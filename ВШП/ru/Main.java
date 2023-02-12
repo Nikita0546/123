@@ -1,0 +1,8 @@
+package ru;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+// Пример присвоения значений переменных
+public class AssignExample
